@@ -16,6 +16,10 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    commit-message:
+      prefix: "TestPrefix"
+      prefix-development: "TestDevPrefix"
+      include: "scope"
 
   # Maintain dependencies for Composer
   - package-ecosystem: "composer"
