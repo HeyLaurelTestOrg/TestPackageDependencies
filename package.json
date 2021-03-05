@@ -45,7 +45,7 @@
     "archy": "~1.0.0",
     "bin-links": "^1.1.7",
     "bluebird": "^3.5.5",
-    "byte-size": "^5.0.1",
+    "byte-size": "^7.0.1",
     "cacache": "^15.0.5",
     "call-limit": "^1.1.1",
     "chownr": "^2.0.0",
