@@ -74,7 +74,7 @@
     "inherits": "^2.0.4",
     "ini": "^2.0.0",
     "init-package-json": "^1.10.3",
-    "is-cidr": "^3.0.0",
+    "is-cidr": "^4.0.2",
     "json-parse-better-errors": "^1.0.2",
     "lazy-property": "~1.0.0",
     "libcipm": "^4.0.7",
