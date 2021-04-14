@@ -6,6 +6,7 @@ updates:
   # Maintain dependencies for GitHub Actions
   - package-ecosystem: "github-actions"
     directory: "/"
+    open-pull-requests-limit: 999
     schedule:
       interval: "daily"
     reviewers:
@@ -14,6 +15,7 @@ updates:
   # Maintain dependencies for npm
   - package-ecosystem: "npm"
     directory: "/"
+    open-pull-requests-limit: 999
     schedule:
       interval: "daily"
     commit-message:
@@ -24,5 +26,6 @@ updates:
   # Maintain dependencies for Composer
   - package-ecosystem: "composer"
     directory: "/"
+    open-pull-requests-limit: 999
     schedule:
       interval: "daily"
