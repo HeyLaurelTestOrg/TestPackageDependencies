@@ -55,7 +55,7 @@
     "cmd-shim": "^3.0.3",
     "columnify": "~1.5.4",
     "config-chain": "^1.1.12",
-    "detect-indent": "~6.0.0",
+    "detect-indent": "~6.1.0",
     "detect-newline": "^2.1.0",
     "dezalgo": "~1.0.3",
     "editor": "~1.0.0",
